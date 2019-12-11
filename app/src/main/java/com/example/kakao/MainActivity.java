@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.tv_result).setEnabled(enabled);
         findViewById(R.id.bt_search).setEnabled(!enabled);
     }
-
+    //test
     //버튼 클릭들
     @Override
     public void onClick(View v){
